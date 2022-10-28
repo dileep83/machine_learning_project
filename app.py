@@ -215,4 +215,5 @@ def render_log_dir(req_path):
 
 
 if __name__ == "__main__":
+    print('app is runnig')
     app.run()
